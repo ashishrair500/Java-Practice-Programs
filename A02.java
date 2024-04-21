@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class A02 {
     public static void main(String[] args) {
         System.out.println("*\n**\n***\n****");
-
         // int a=10;
         // int b=5;
         // int c=(a*b)/(a-b); //bodmasss do not work in java priority * / % then + -
